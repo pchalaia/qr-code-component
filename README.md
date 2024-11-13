@@ -21,11 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![./screenshot.jpg]
+[![./screenshot.jpg](https://github.com/pchalaia/qr-code-component/blob/main/images/screenshot.jpg)]
 
 ### Links
-
-- Solution URL: [https://pchalaia.github.io/qr-code-component/](https://pchalaia.github.io/qr-code-component/)
 - Live Site URL: [https://pchalaia.github.io/qr-code-component/](https://pchalaia.github.io/qr-code-component/)
 
 ## My process
